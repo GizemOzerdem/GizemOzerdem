@@ -1,4 +1,11 @@
-<h1 align="center">Merhaba 👋, Ben Gizem, yazılımcıyım</h1>
+<h1 align="center">Hi 👋, I'm Gizem, I am a software developer</h1>
+
+- 🔭 I’m currently working on I’m currently working on C#
+
+- 👨‍💻 All of my projects are available at [https://github.com/GizemOzerdem?tab=projects](https://github.com/GizemOzerdem?tab=projects)
+
+- 📫 How to reach me **gizemozerdem312@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gizem özerdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gizem özerdem" height="30" width="40" /></a>
